@@ -14,8 +14,7 @@ function About() {
                 I am a talented, ambitious and hardworking individual, with broad
           skills and experience in software engineering. However, I am adept at
           handling multiple tasks on a daily basis competently and at working
-          well under pressure.uctures, propulsion, and aerodynamics and he finished his senior project, 
-                the aircraft performance and design. 
+          well under pressure. 
                 </p>
                 <p>
                 
