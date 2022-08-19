@@ -12,33 +12,6 @@
         "image": "https://github.com/ekowbossman/React-Portfolio/blob/main/asset/React.png",
         "github": "https://github.com/ekowbossman/React-Portfolio",
         "deploy": "https://peaceful-anchorage-00539.herokuapp.com/#/about"
-    },
-    {
-        "id": 3,
-        "name": "Weather",
-        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/weather.png",
-        "github": "https://github.com/sg3606/WeatherDashboard",
-        "deploy": "https://sg3606.github.io/WeatherDashboard/"
-    },
-    {
-        "id": 4,
-        "name": "Schedule",
-        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/schedule.png",
-        "github": "https://github.com/sg3606/Scheduler",
-        "deploy": "https://sg3606.github.io/Scheduler/"
-    },
-    {
-        "id": 5,
-        "name": "Note",
-        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/note.png",
-        "github": "https://github.com/sg3606/note-taker",
-        "deploy": "https://morning-gorge-44836.herokuapp.com/"
-    },
-    {
-        "id": 6,
-        "name": "WorkoutTracker",
-        "image": "https://raw.githubusercontent.com/sg3606/WorkoutTracker/main/screenshots/2.png",
-        "github": "https://github.com/sg3606/WorkoutTracker",
-        "deploy": "https://sheltered-reaches-79738.herokuapp.com/?id=60bbf037fe11532d1d313594"
     }
+    
 ]
