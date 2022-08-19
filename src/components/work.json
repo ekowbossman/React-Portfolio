@@ -9,9 +9,9 @@
     {
         "id": 2,
         "name": "React-Portfolio",
-        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/Function_Demo.png",
-        "github": "https://github.com/sg3606/bev-films",
-        "deploy": "https://sg3606.github.io/bev-films/"
+        "image": "https://github.com/ekowbossman/React-Portfolio/blob/main/asset/React.png",
+        "github": "https://github.com/ekowbossman/React-Portfolio",
+        "deploy": "https://peaceful-anchorage-00539.herokuapp.com/#/about"
     },
     {
         "id": 3,
