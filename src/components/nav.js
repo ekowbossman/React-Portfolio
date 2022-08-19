@@ -9,7 +9,7 @@ function Navigation(props) {
         <div className="navbar_0">
         <NavLink className="nav-link" to="/">
           <div className="text-light">
-            <h4 className="nav-title-font">Shao Ge</h4>
+            <h4 className="nav-title-font">Bossman Quansah</h4>
           </div>
         </NavLink>
         </div>

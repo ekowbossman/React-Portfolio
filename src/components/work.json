@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Seasons Eatings",
-        "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/seasons.png",
-        "github": "https://github.com/sg3606/project_2",
-        "deploy": "https://quiet-lowlands-76523.herokuapp.com/"
+        "name": "Tech Blog",
+        "image": "https://github.com/ekowbossman/TechBlag/blob/main/asset/Techblog.png",
+        "github": "https://github.com/ekowbossman/TechBlag",
+        "deploy": "https://cryptic-anchorage-24658.herokuapp.com/"
     },
     {
         "id": 2,
-        "name": "Bev-Films",
+        "name": "React-Portfolio",
         "image": "https://raw.githubusercontent.com/sg3606/MyPortfolio/main/Assets/Image/Function_Demo.png",
         "github": "https://github.com/sg3606/bev-films",
         "deploy": "https://sg3606.github.io/bev-films/"
