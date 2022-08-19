@@ -10,12 +10,12 @@ function Contact() {
                 <ul className='contact'>
                     <div>
                     <li>
-                        Phone: <a href="tel:8056253777">(805)-625-3777</a>
+                        Phone: <a href="tel:7247040796">(724) 704-0796</a>
                     </li>
                     </div>
                     <div>
                     <li>
-                        Email: <a href="mailto:geshao3606@gmail.com">geshao3606@gmail.com</a>
+                        Email: <a href="bossmanquansah@gmail.com">bossmanquansah@gmail.com</a>
                     </li>
                     </div>
                 </ul>     

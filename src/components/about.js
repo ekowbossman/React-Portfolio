@@ -8,22 +8,17 @@ function About() {
             <hr></hr>
             <div>
                 <p>
-                Shao has studied in the United States since 2013. 
-                He was pursuing both Bachelors of Science in Mechanical Engineering 
-                and Aerospace Science and Engineering at the University of California, Davis. 
+                Bossman Quansah React Project profile 
                 </p>
                 <p>
-                In his first year, he had an opportunity to learn 3D modeling and manufacturing skills. 
-                When Shao learned manufacturing skills, 
-                he successfully manufactured a gyroscope in the UC Davis workshop. 
-                Also, he was a leader and designer for the campus farm project, 
-                where he and his team designed an automatic irrigation system for grapes. 
-                In his sophomore year, he decided to take Mechanical Engineering and Aerospace Science and Engineering. 
-                He has learned aircraft stability, structures, propulsion, and aerodynamics and he finished his senior project, 
+                I am a talented, ambitious and hardworking individual, with broad
+          skills and experience in software engineering. However, I am adept at
+          handling multiple tasks on a daily basis competently and at working
+          well under pressure.uctures, propulsion, and aerodynamics and he finished his senior project, 
                 the aircraft performance and design. 
                 </p>
                 <p>
-                He is currently studying in the University of Washington, Seattle.
+                
                 </p>
             </div>
         </section>
